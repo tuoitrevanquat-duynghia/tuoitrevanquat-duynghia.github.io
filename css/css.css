@@ -80,6 +80,11 @@ h6 {
     height: auto;
     padding-bottom: 10px;
 }
+#sty_occop {
+    background-color: #242044;
+    height: auto;
+    padding-bottom: 10px;
+}
 
 #p_ne {
     text-align: center;
@@ -121,6 +126,9 @@ h6 {
 #card_mapred:hover {
     box-shadow: 4px 4px 4px 4px #e67a7a;
 }
+#card_occop:hover {
+    box-shadow: 4px 4px 4px 4px #00fc9f;
+}
 
 #btn_dt {
     display: flex;
@@ -130,6 +138,11 @@ h6 {
 
 #sty_mapred {
     background-color: #810505;
+    height: auto;
+}
+
+#sty_occop {
+    background-color: #0b7619;
     height: auto;
 }
 
@@ -181,6 +194,10 @@ h6 {
         margin-top: 6px;
     }
     #sty_mapred {
+        height: auto;
+    }
+    
+    #sty_occop {
         height: auto;
     }
 }
